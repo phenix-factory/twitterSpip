@@ -4,8 +4,7 @@ Plugin pour afficher un flux twitter publique sur un site spip.
 
 # Installation
 
-Faite simplement
-
+Il suffit d’appeler le squelette fluxTwitter
 	<INCLURE{fond=fluxTwitter, env}>
 
 Enjoye !
