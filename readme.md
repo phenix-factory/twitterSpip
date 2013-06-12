@@ -1,3 +1,5 @@
+# PLUGIN OBSOLETE ! API TWITTER DEPRECIER
+
 # Twitter SPIP
 
 Plugin pour afficher un flux twitter publique sur un site spip.
